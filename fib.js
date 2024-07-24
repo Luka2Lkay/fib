@@ -10,8 +10,5 @@ function fibs(number) {
 
         arr.push(nextNumber)
     }
-
     return arr;
 }
-
-console.log(fibs(10))
